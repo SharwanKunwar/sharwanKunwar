@@ -7,7 +7,8 @@ I'm a passionate **programmer** and **student** currently exploring different ar
 I am currently pursuing a Bachelor's degree in Computer Applications.
 - **BCA**  
 - **C Programming, Java, SQL, Databases**  
-- **Data Structures & Algorithms (DSA) in Java**  
+- **Data Structures & Algorithms (DSA) in Java**
+- **HTML, CSS for Web Development (basic)**  
 
 
 I am also actively **updating my progress on GitHub** while working on different projects!
