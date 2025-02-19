@@ -3,6 +3,8 @@
 ## 🛠 About Me
 I'm a passionate **programmer** and **student** currently exploring different areas of **software development**. I love solving problems, building real-world applications, and continuously expanding my knowledge in the field of computer science.<br><br>
 
+---
+
 # 💻 My Tech Stack
 
 ## 🚀 Backend Technologies
@@ -20,21 +22,14 @@ I'm a passionate **programmer** and **student** currently exploring different ar
 </table>
 
 ## 🎨 Frontend Technologies
-- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
-🔹 **I’m constantly learning and improving my skills to become a full-stack developer!** 🚀
-
-## 📚 My Courses & Learning Journey  
-I am currently pursuing a Bachelor's degree in Computer Applications.
-- 🎓 **BCA**  
-- 📌 **C Programming, Java, SQL, Databases**  
-- 📌 **Data Structures & Algorithms (DSA) in Java**  
-- 📌 **HTML, CSS for Web Development (basic)**  
-
-I am also actively **updating my progress on GitHub** while working on different projects!
 
 ## 🚀 Interests & Goals
 - 👀 I’m interested in **programming, software development, and building real-world applications.**  
@@ -51,7 +46,9 @@ I am also actively **updating my progress on GitHub** while working on different
 - 🐦 Twitter: **[---]**  
 
 ## 🎉 Fun Fact  
-⚡ **I love exploring different programming languages and working on random coding projects for fun!**  
+⚡ I sometimes start a coding project just to test one tiny feature… and end up building a whole new app!
 
 ---
+
+🔹 **I’m constantly learning and improving my skills to become a full-stack developer!** 🚀  
 Thanks for visiting my profile! **Stay tuned for more exciting projects!** 🚀
