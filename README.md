@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Sharwan Jung Kunwar AKA MAHAKAL
+# 👋 Hi, I'm @Sharwan Jung Kunwar
 
 ## 🛠 About Me
 I'm a passionate **programmer** and **student** currently exploring different areas of **software development**. I love solving problems, building real-world applications, and continuously expanding my knowledge in the field of computer science.<br><br>
