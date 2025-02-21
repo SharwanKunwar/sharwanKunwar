@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sharwan Kunwar
 
-# 💻 My Tech Stack
+# 💻 My Tech Stack  
 
-## 🚀 Backend Technologies
+## 🚀 Backend Technologies  
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -10,21 +10,32 @@
     <td><img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
   </tr>
-</table>
+</table>  
 
-## 🎨 Frontend Technologies
+## 🎨 Frontend Technologies  
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/XML-%23800000.svg?style=for-the-badge&logo=xml&logoColor=white"/></td>
+  </tr>
+</table>  
+
+## 🛠️ Tools  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></td>
   </tr>
 </table>
-
----
 
 
 
