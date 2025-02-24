@@ -38,7 +38,7 @@
 
 
 ## 🛠 About Me  
-I'm a **backend developer** passionate about building robust and scalable applications. I enjoy solving complex problems, experimenting with new technologies, and working on projects that push my limits. My journey in software development is driven by curiosity and a desire to create impactful solutions.  
+I'm a **full-stack developer** passionate about building robust, scalable, and interactive applications. I enjoy working with both backend and frontend technologies, solving complex problems, and experimenting with new tools and frameworks. My journey in software development is fueled by curiosity and a desire to create impactful solutions that deliver real value.
 
 📌 Check out my portfolio:  
 ### **📥 [My Portfolio](https://sharwankunwar.github.io/My-Portfolio-07/)**  
@@ -46,15 +46,15 @@ I'm a **backend developer** passionate about building robust and scalable applic
 ---
 
 ## 🚀 Interests & Goals  
-- 🔥 Building scalable and efficient backend systems  
+- 🔥 Building full-stack web and mobile applications  
 - 💡 Learning and implementing **microservices architecture**  
-- 🚀 Exploring **React** for frontend development  
+- 🚀 Exploring **React** and **Node.js** for frontend and backend development  
 - 💻 Contributing to **open-source projects**  
 
 ## 🤝 Collaboration & Open-Source  
-- 🚀 Always open to **collaborate on projects**  
+- 🚀 Always open to **collaborating on projects**  
 - 🔍 Looking for **exciting problem-solving challenges**  
-- 💬 Feel free to **reach out** if you have an interesting idea!  
+- 💬 Feel free to **reach out** if you have an interesting idea!
 
 ## 📫 How to Reach Me  
 - 📩 Email: **sharwankunwar07@gmail.com**  
@@ -64,7 +64,7 @@ I'm a **backend developer** passionate about building robust and scalable applic
 ---
 
 ## 🎉 Fun Fact  
-⚡ I start projects just to test a small feature... and end up creating a whole new application!  
+⚡ I start projects just to test a small feature... and end up creating a whole new application!
 
 🔹 **Constantly improving, always coding, and pushing boundaries!** 🚀  
-Thanks for visiting! Stay tuned for more exciting projects! 🚀  
+Thanks for visiting! Stay tuned for more exciting projects! 🚀
