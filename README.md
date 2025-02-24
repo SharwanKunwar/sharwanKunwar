@@ -27,10 +27,13 @@
     <td><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Android%20Studio-%2320232a.svg?style=for-the-badge&logo=android-studio&logoColor=green"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Node.js-%2343853B.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
   </tr>
 </table>
-
----
 
 
 
