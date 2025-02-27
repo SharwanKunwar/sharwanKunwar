@@ -47,6 +47,7 @@ I'm a **full-stack developer** passionate about building robust, scalable, and i
 
 📌 Check out my portfolio:  
 ### **📥 [My Portfolio](https://sharwankunwar.github.io/My-Portfolio-07/)**  
+![image](Screenshot 2025-02-24 223259.png)
 
 ---
 
