@@ -34,8 +34,10 @@
     <td><img src="https://img.shields.io/badge/Node.js-%2343853B.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white"/></td>
   </tr>
 </table>
+
 
 
 
