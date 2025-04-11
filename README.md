@@ -47,8 +47,8 @@ I'm a **full-stack developer** passionate about building robust, scalable, and i
 
 ---
 
-## 🎉 Fun Fact  
-⚡ I start projects just to test a small feature... and end up creating a whole new application!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 🔹 **Constantly improving, always coding, and pushing boundaries!** 🚀  
 Thanks for visiting! Stay tuned for more exciting projects! 🚀
