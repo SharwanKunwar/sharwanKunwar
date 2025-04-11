@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Sharwan Kunwar  
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61560874714135) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharwan-kunwar-95a919317/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@UnpredictableCoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharwankunwar07@gmail.com) 
+
 ## 💬 Can Communicate  
 <table>
   <tr>
