@@ -50,5 +50,8 @@ I'm a **full-stack developer** passionate about building robust, scalable, and i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+---
+[![](https://visitcount.itsvg.in/api?id=SharwanKunwar&icon=7&color=13)](https://visitcount.itsvg.in)
+
 🔹 **Constantly improving, always coding, and pushing boundaries!** 🚀  
 Thanks for visiting! Stay tuned for more exciting projects! 🚀
