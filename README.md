@@ -19,17 +19,9 @@
 I'm a **full-stack developer** passionate about building robust, scalable, and interactive applications. I enjoy working with both backend and frontend technologies, solving complex problems, and experimenting with new tools and frameworks. My journey in software development is fueled by curiosity and a desire to create impactful solutions that deliver real value.
 
 ## 🔥 Currently Working On  
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></td>
-    <td><img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
----
 
 📌 Check out my portfolio:  
 ### **📥 [My Portfolio](https://sharwankunwar.github.io/My-Portfolio-07/)**  
