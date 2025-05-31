@@ -10,10 +10,12 @@
 # 💻 Tech Stack and Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2313B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/framer_motion-%23000000.svg?style=plastic&logo=framer&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2313B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
 
 
 
@@ -27,7 +29,8 @@ I'm a **full-stack developer** passionate about building robust, scalable, and i
 
 ## 🔥 Currently Working On  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2313B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+
 
 
 📌 Check out my portfolio:  
