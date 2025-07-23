@@ -10,11 +10,14 @@
 # 💻 Tech Stack and Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2313B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/framer_motion-%23000000.svg?style=plastic&logo=framer&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/react--three--fiber-%23a3d5ff.svg?style=plastic&logo=three.js&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
 
 
 
@@ -28,8 +31,9 @@
 I'm a **full-stack developer** passionate about building robust, scalable, and interactive applications. I enjoy working with both backend and frontend technologies, solving complex problems, and experimenting with new tools and frameworks. My journey in software development is fueled by curiosity and a desire to create impactful solutions that deliver real value.
 
 ## 🔥 Currently Working On  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/react--three--fiber-%23a3d5ff.svg?style=plastic&logo=three.js&logoColor=black)
 
 
 
