@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Sharwan Kunwar</h1>
+<h1 align="center"><span style="color:red;">Sharwan Kunwar</span></h1>
 <h3 align="center">Full stack developer</h3>
 
 ## Languages
