@@ -1,6 +1,5 @@
-<h1 align="center">Sharwan Kunwar</h1>
-<hr>
-Full stack developer
+<h1 align="center" color="red">Sharwan Kunwar</h1>
+<h3 align="center">Full stack developer</h3>
 
 ## Languages
 - C
