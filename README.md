@@ -22,4 +22,4 @@
 - Figma
 - ExcelDraw
 
-(portfolio)[https://github.com/SharwanKunwar/sharwanKunwar/blob/main/web.png]
+!(portfolio)[https://github.com/SharwanKunwar/sharwanKunwar/blob/main/web.png]
