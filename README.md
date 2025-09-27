@@ -4,26 +4,24 @@ I’m a BCA student passionate about full-stack development and problem-solving.
 <h6 align="end">Full Stack Developer</h6>
 
 
-## 🎯 Languages
-- C
-- Java
-- JavaScript
-- Web (HTML, CSS)
-
-## 🎟️Frameworks
-- React.js
-- Next.js
-- Spring Boot
-
-## Database
-- PostgreSQL
-
-## Libraries & Tools
-- Tailwind CSS
-- Framer Motion / R3F / Lens
-- Git & GitHub
-- Figma
-- ExcelDraw
+```js
+const Resume = {
+  FullName : "Sharwan jung kunwar",
+  age: 22,
+  location:{
+    
+  languages: ["C", "Java", "JavaScript", "HTML", "CSS"],
+  frameworks: ["React.js", "Next.js", "Spring Boot"],
+  database: ["PostgreSQL"],
+  librariesAndTools: [
+    "Tailwind CSS",
+    "Framer Motion / R3F / Lens",
+    "Git & GitHub",
+    "Figma",
+    "ExcelDraw"
+  ]
+};
+```
 
 # Portfolio:
 [![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/web.png)](https://your-portfolio-link.com)
