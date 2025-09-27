@@ -20,8 +20,6 @@ const DeveloperProfile = {
             }
         }
     },
-    
-    About: "Full-stack developer passionate about building scalable applications, solving complex problems, and constantly learning new technologies. Enjoys working with both frontend and backend, with a strong interest in clean code and UI/UX.",
 
     skills: {
         Languages: ["C", "Java", "JavaScript", "web"],
