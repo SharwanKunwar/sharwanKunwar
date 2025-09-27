@@ -5,22 +5,87 @@ I’m a BCA student passionate about full-stack development and problem-solving.
 
 
 ```js
-const Resume = {
-  FullName : "Sharwan jung kunwar",
-  age: 22,
-  location:{
+const DeveloperProfile = {
+    personal: {
+        fullName: "Sharwan Jung Kunwar",
+        age: 22,
+        location: {
+            current: {
+                city: "Kathmandu",
+                country: "Nepal"
+            },
+            past: {
+                city: "Attriya-Kailali",
+                country: "Nepal"
+            }
+        }
+    },
     
-  languages: ["C", "Java", "JavaScript", "HTML", "CSS"],
-  frameworks: ["React.js", "Next.js", "Spring Boot"],
-  database: ["PostgreSQL"],
-  librariesAndTools: [
-    "Tailwind CSS",
-    "Framer Motion / R3F / Lens",
-    "Git & GitHub",
-    "Figma",
-    "ExcelDraw"
-  ]
+    About: "Full-stack developer passionate about building scalable applications, solving complex problems, and constantly learning new technologies. Enjoys working with both frontend and backend, with a strong interest in clean code and UI/UX.",
+
+    skills: {
+        Languages: ["C", "Java", "JavaScript", "web"],
+        Frameworks: ["React.js", "Next.js", "Spring Boot"],
+        Database: ["PostgreSQL"],
+        LibrariesAndTools: {
+            Styling: ["Tailwind CSS"],
+            Animation: ["Framer Motion", "R3F", "Lens"],
+            VersionControl: ["Git", "GitHub"],
+            Design: ["Figma"],
+            Productivity: ["ExcelDraw"]
+        }
+    },
+
+    Projects: [
+        {
+            name: "Tic-Tac-Toe Game",
+            type: "Android App",
+            techStack: ["Java", "XML"],
+            description: "A simple two-player game with interactive UI and animations."
+        },
+        {
+            name: "Book Store App",
+            type: "Android App",
+            techStack: ["Java", "XML"],
+            description: "Manages book listings with search and categorization features."
+        },
+    
+        {
+            name: "Portfolio Website",
+            type: "Web App",
+            techStack: ["React", "Tailwind CSS", "Framer Motion"],
+            description: "Personal developer portfolio showcasing projects and skills."
+        },
+        {
+            name: "Library Management System",
+            type: "Full-stack App",
+            techStack: ["Spring Boot", "MongoDB", "React"],
+            description: "Includes authentication, book issue/return, and barcode scanner integration."
+        },
+    ],
+
+    Experience: [
+        {
+            role: "Backend Developer",
+            focus: "Java, Spring Boot, PostgreSQL",
+            description: "Developed REST APIs, handled database design, and optimized server-side logic."
+        },
+        {
+            role: "Frontend Enthusiast",
+            focus: "React, JavaScript, Tailwind CSS",
+            description: "Built responsive UIs, experimented with animations, and contributed to web projects."
+        }
+    ],
+
+    interests: ["Open-source contribution", "Boxing", "Playing Guitar", "Exploring new tech", "Game development"],
+
+    contact: {
+        github: "https://github.com/SharwanKunwar",
+        portfolio: "https://sharwankunwar.vercel.app",
+        email: "sharwankunwar07@gmail.com"
+    }
 };
+
 ```
 
 # Portfolio:
