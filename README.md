@@ -1,6 +1,7 @@
-<h1 align="center"><span style="color:red;">Sharwan Kunwar\n Full stack Developer</span></h1>
-<h3 align="center">
-I’m a BCA student passionate about full-stack development and problem-solving. I work with JavaScript, Java, C, Spring Boot, React, and PostgreSQL, and I enjoy building projects that sharpen my skills. My goal is to grow as a developer by solving challenges and creating impactful applications.</h3>
+<h1 align="center"><span style="color:red;">Sharwan Kunwar</span></h1>
+<h6>Full Stack Developer</h6>
+<h4 align="center">
+I’m a BCA student passionate about full-stack development and problem-solving. I work with JavaScript, Java, C, Spring Boot, React, and PostgreSQL, and I enjoy building projects that sharpen my skills. My goal is to grow as a developer by solving challenges and creating impactful applications.</h4>
 
 
 ## 🎯 Languages
