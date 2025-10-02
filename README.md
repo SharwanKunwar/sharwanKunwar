@@ -75,7 +75,7 @@ const DeveloperProfile = {
         }
     ],
 
-    interests: ["Open-source contribution", "Boxing", "Playing Guitar", "Exploring new tech", "Game development"],
+    interests: ["Open-source contribution", "Coding", "Playing Guitar", "Exploring new tech", "Boxing"],
 
     contact: {
         github: "https://github.com/SharwanKunwar",
