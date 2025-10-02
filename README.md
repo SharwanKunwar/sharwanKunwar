@@ -80,7 +80,8 @@ const DeveloperProfile = {
     contact: {
         github: "https://github.com/SharwanKunwar",
         portfolio: "https://sharwankunwar.vercel.app",
-        email: "sharwankunwar07@gmail.com"
+        email: "sharwankunwar07@gmail.com",
+        leetCode: "https://leetcode.com/u/P7YDdvuzcc/"
     }
 };
 
