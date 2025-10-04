@@ -1,6 +1,6 @@
 <div>
-    <h1 align="center">Sharwan Kunwar</h1>
-    <h5>To get something you never had you have to do something you never did</h5>
+    <h1 align="center">Sharwan Kunwar <br><section><h5 align="center">To get something you never had you have to do something you never did</h5></section></h1>
+    
 </div>
 
 <h4 align="center">
