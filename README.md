@@ -64,6 +64,9 @@ const DeveloperProfile = {
             techStack: ["Spring Boot", "MongoDB", "React"],
             description: "Includes authentication, book issue/return, and barcode scanner integration."
         },
+        {
+            etc...
+        },
     ],
 
     Experience: [
