@@ -87,7 +87,7 @@ const DeveloperProfile = {
 ```
 
 # Portfolio:
-[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/web.png)](https://sharwan-jung-kunwar-g6qw.vercel.app/)
+[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/web.png)](https://sharwan-kunwar.vercel.app/projects)
 
 
 
