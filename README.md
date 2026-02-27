@@ -14,7 +14,7 @@ const DeveloperProfile = {
         fullName: "Sharwan Jung Kunwar",
         age: 22,
         location: {
-            current: { city: "Kathmandu", country: "Nepal" },
+            current:{ city: "Kathmandu", country: "Nepal" },
             past: { city: "Attriya-Kailali", country: "Nepal" }
         }
     },
@@ -119,20 +119,31 @@ const DeveloperProfile = {
     }
 ],
 
-    experience: [
-        {
-            role: "Frontend Developer",
-            focus: "React, JavaScript, Tailwind CSS",
-            description: "Built responsive and animated UIs, contributed to web projects, and optimized user experience."
-        }
-    ],
+experience: [
+    {
+        role: "Project-Based Experience",
+        focus: "React, Spring Boot, PostgreSQL, Android, Java",
+        description: "Built 10+ full-stack and Android projects."
+    },
+    {
+        role: "Self-Learning & Personal Projects",
+        focus: "Full-Stack Development, Android Apps, Problem Solving",
+        description: "Completed coding challenges and tutorials."
+    }
+],
 
-    interests: ["Open-source contribution", "Coding", "Playing Guitar", "Exploring new tech", "Boxing"],
+interests:[
+    "Open-source contribution",
+    "Coding",
+    "Playing Guitar",
+    "Exploring new tech",
+    "Boxing"
+],
 
-Contact{
-- 🐱 [GitHub](https://github.com/SharwanKunwar)
-- 🌐 [Portfolio](https://sharwankunwar.vercel.app)
-- ✉️ [Email](mailto:sharwankunwar07@gmail.com)
+Contact:{
+- 🐱 [GitHub](https://github.com/SharwanKunwar),
+- 🌐 [Portfolio](https://sharwankunwar.vercel.app),
+- ✉️ [Email](mailto:sharwankunwar07@gmail.com),
 - 🖥️ [LeetCode](https://leetcode.com/u/P7YDdvuzcc/)
 },
 };
