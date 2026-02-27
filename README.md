@@ -1,10 +1,10 @@
 <div>
     <h1 align="center">Sharwan Kunwar</h1>
-   <h4 align="center">
-I’m a BCA student passionate about full-stack development and problem-solving. I work with JavaScript, Java, C, Spring Boot, React, and PostgreSQL, and I enjoy building projects that sharpen my skills. My goal is to grow as a developer by solving challenges and creating impactful applications.</h4>
-<h6 align="end">Full Stack Developer</h6>
+    <h4 align="center">
+        Full-stack developer focused on building scalable applications with Java, Spring Boot, React, and PostgreSQL. Passionate about solving problems through clean, efficient code and creating impactful projects that sharpen my skills.
+    </h4>
+    <h6 align="end">Full Stack Developer</h6>
 </div>
-
 
 
 
@@ -14,22 +14,16 @@ const DeveloperProfile = {
         fullName: "Sharwan Jung Kunwar",
         age: 22,
         location: {
-            current: {
-                city: "Kathmandu",
-                country: "Nepal"
-            },
-            past: {
-                city: "Attriya-Kailali",
-                country: "Nepal"
-            }
+            current: { city: "Kathmandu", country: "Nepal" },
+            past: { city: "Attriya-Kailali", country: "Nepal" }
         }
     },
 
     skills: {
-        Languages: ["C", "Java", "JavaScript", "web"],
+        Languages: ["C", "Java", "JavaScript"],
         Frameworks: ["React.js", "Next.js", "Spring Boot"],
-        Database: ["PostgreSQL"],
-        LibrariesAndTools: {
+        Databases: ["PostgreSQL", "MongoDB"],
+        ToolsAndLibraries: {
             Styling: ["Tailwind CSS"],
             Animation: ["Framer Motion", "R3F", "Lens"],
             VersionControl: ["Git", "GitHub"],
@@ -38,42 +32,38 @@ const DeveloperProfile = {
         }
     },
 
-    Projects: [
+    projects: [
         {
             name: "Tic-Tac-Toe Game",
             type: "Android App",
             techStack: ["Java", "XML"],
-            description: "A simple two-player game with interactive UI and animations."
+            description: "Developed a two-player Android game with interactive UI, animations, and smooth state management."
         },
         {
             name: "Book Store App",
             type: "Android App",
             techStack: ["Java", "XML"],
-            description: "Manages book listings with search and categorization features."
+            description: "Built an Android app to manage book listings with search, categorization, and smooth navigation."
         },
-    
         {
             name: "Portfolio Website",
             type: "Web App",
             techStack: ["React", "Tailwind CSS", "Framer Motion"],
-            description: "Personal developer portfolio showcasing projects and skills."
+            description: "Designed a personal developer portfolio to showcase projects, skills, and interactive UI."
         },
         {
             name: "Library Management System",
             type: "Full-stack App",
             techStack: ["Spring Boot", "MongoDB", "React"],
-            description: "Includes authentication, book issue/return, and barcode scanner integration."
-        },
-        {
-            etc...
-        },
+            description: "Implemented authentication, book issue/return, and barcode scanner integration for efficient library management."
+        }
     ],
 
-    Experience: [
+    experience: [
         {
-            role: "Frontend Enthusiast",
+            role: "Frontend Developer",
             focus: "React, JavaScript, Tailwind CSS",
-            description: "Built responsive UIs, experimented with animations, and contributed to web projects."
+            description: "Built responsive and animated UIs, contributed to web projects, and optimized user experience."
         }
     ],
 
