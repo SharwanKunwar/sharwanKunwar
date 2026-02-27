@@ -37,85 +37,85 @@ const DeveloperProfile = {
         name: "Portfolio Website",
         type: "Web App",
         techStack: ["React", "Tailwind CSS", "Framer Motion"],
-        description: "Designed a personal developer portfolio to showcase projects, skills, and interactive UI."
+        description: "Showcases projects, skills, and interactive UI."
     },
     {
         name: "Library Management System",
         type: "Full-stack App",
         techStack: ["Spring Boot", "MongoDB", "React"],
-        description: "Implemented authentication, book issue/return, and barcode scanner integration for efficient library management."
+        description: "Auth, book issue/return, and barcode system."
     },
     {
         name: "Focus Planner",
         type: "Web App",
         techStack: ["React", "JavaScript"],
-        description: "Built a productivity-focused app to help users track tasks, set goals, and improve focus."
+        description: "Track tasks, goals, and improve focus."
     },
     {
         name: "LeadCoder",
         type: "Web App",
         techStack: ["React", "Spring Boot", "PostgreSQL"],
-        description: "A platform for programming challenges, code submission, and ranking users based on performance."
+        description: "Platform for coding challenges and rankings."
     },
     {
         name: "FindImages",
         type: "Web App",
         techStack: ["React", "JavaScript", "API Integration"],
-        description: "Created an image search app using external APIs to fetch and display high-quality images efficiently."
+        description: "Search and view high-quality images easily."
     },
     {
         name: "Avatar Generator",
         type: "Web App",
         techStack: ["React", "JavaScript", "Canvas API"],
-        description: "Developed an avatar generator allowing users to customize and download profile avatars."
+        description: "Generate and download custom avatars."
     },
     {
         name: "YouTube Thumbnail Downloader",
         type: "Web App",
         techStack: ["React", "Node.js"],
-        description: "Built a tool for fetching and downloading YouTube video thumbnails quickly."
+        description: "Download YouTube video thumbnails fast."
     },
     {
         name: "Gradient Generator",
         type: "Web App",
         techStack: ["React", "CSS"],
-        description: "Interactive app to create, preview, and copy CSS gradients for web projects."
+        description: "Create, preview, and copy CSS gradients."
     },
     {
         name: "Portfolio Designs",
         type: "Design Project",
         techStack: ["Figma", "CSS"],
-        description: "Created multiple UI/UX portfolio templates and layouts for web developers."
+        description: "UI/UX templates and layouts for portfolios."
     },
     {
         name: "Smart Video Player",
         type: "Web App",
         techStack: ["React", "JavaScript", "HTML5 Video API"],
-        description: "Developed a video player with enhanced controls, playlists, and smart features for an optimal viewing experience."
+        description: "Video player with controls and playlists."
     },
     {
         name: "Programming Notes",
         type: "Web App",
         techStack: ["React", "Local Storage"],
-        description: "App for organizing programming notes, syntax snippets, and quick references efficiently."
+        description: "Organize notes, snippets, and references."
     },
     {
         name: "BCA Aspirant",
         type: "Web App",
         techStack: ["React", "JavaScript"],
-        description: "A resource platform for BCA students to access study material, tutorials, and practice exercises."
+        description: "Study platform for BCA students."
     },
     {
         name: "Quiz App",
         type: "Web App",
         techStack: ["React", "JavaScript", "API Integration"],
-        description: "Developed a quiz platform with multiple categories, timers, and score tracking for fun learning."
+        description: "Interactive quizzes with timers and scores."
     },
     {
         name: "Casino Planet",
         type: "Web App",
         techStack: ["React", "JavaScript"],
-        description: "Built an online casino-themed game platform featuring interactive games and animations."
+        description: "Online casino-themed game platform."
     }
 ],
 
