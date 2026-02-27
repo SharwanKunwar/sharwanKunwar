@@ -32,32 +32,92 @@ const DeveloperProfile = {
         }
     },
 
-    projects: [
-        {
-            name: "Tic-Tac-Toe Game",
-            type: "Android App",
-            techStack: ["Java", "XML"],
-            description: "Developed a two-player Android game with interactive UI, animations, and smooth state management."
-        },
-        {
-            name: "Book Store App",
-            type: "Android App",
-            techStack: ["Java", "XML"],
-            description: "Built an Android app to manage book listings with search, categorization, and smooth navigation."
-        },
-        {
-            name: "Portfolio Website",
-            type: "Web App",
-            techStack: ["React", "Tailwind CSS", "Framer Motion"],
-            description: "Designed a personal developer portfolio to showcase projects, skills, and interactive UI."
-        },
-        {
-            name: "Library Management System",
-            type: "Full-stack App",
-            techStack: ["Spring Boot", "MongoDB", "React"],
-            description: "Implemented authentication, book issue/return, and barcode scanner integration for efficient library management."
-        }
-    ],
+   projects: [
+    {
+        name: "Portfolio Website",
+        type: "Web App",
+        techStack: ["React", "Tailwind CSS", "Framer Motion"],
+        description: "Designed a personal developer portfolio to showcase projects, skills, and interactive UI."
+    },
+    {
+        name: "Library Management System",
+        type: "Full-stack App",
+        techStack: ["Spring Boot", "MongoDB", "React"],
+        description: "Implemented authentication, book issue/return, and barcode scanner integration for efficient library management."
+    },
+    {
+        name: "Focus Planner",
+        type: "Web App",
+        techStack: ["React", "JavaScript"],
+        description: "Built a productivity-focused app to help users track tasks, set goals, and improve focus."
+    },
+    {
+        name: "LeadCoder",
+        type: "Web App",
+        techStack: ["React", "Spring Boot", "PostgreSQL"],
+        description: "A platform for programming challenges, code submission, and ranking users based on performance."
+    },
+    {
+        name: "FindImages",
+        type: "Web App",
+        techStack: ["React", "JavaScript", "API Integration"],
+        description: "Created an image search app using external APIs to fetch and display high-quality images efficiently."
+    },
+    {
+        name: "Avatar Generator",
+        type: "Web App",
+        techStack: ["React", "JavaScript", "Canvas API"],
+        description: "Developed an avatar generator allowing users to customize and download profile avatars."
+    },
+    {
+        name: "YouTube Thumbnail Downloader",
+        type: "Web App",
+        techStack: ["React", "Node.js"],
+        description: "Built a tool for fetching and downloading YouTube video thumbnails quickly."
+    },
+    {
+        name: "Gradient Generator",
+        type: "Web App",
+        techStack: ["React", "CSS"],
+        description: "Interactive app to create, preview, and copy CSS gradients for web projects."
+    },
+    {
+        name: "Portfolio Designs",
+        type: "Design Project",
+        techStack: ["Figma", "CSS"],
+        description: "Created multiple UI/UX portfolio templates and layouts for web developers."
+    },
+    {
+        name: "Smart Video Player",
+        type: "Web App",
+        techStack: ["React", "JavaScript", "HTML5 Video API"],
+        description: "Developed a video player with enhanced controls, playlists, and smart features for an optimal viewing experience."
+    },
+    {
+        name: "Programming Notes",
+        type: "Web App",
+        techStack: ["React", "Local Storage"],
+        description: "App for organizing programming notes, syntax snippets, and quick references efficiently."
+    },
+    {
+        name: "BCA Aspirant",
+        type: "Web App",
+        techStack: ["React", "JavaScript"],
+        description: "A resource platform for BCA students to access study material, tutorials, and practice exercises."
+    },
+    {
+        name: "Quiz App",
+        type: "Web App",
+        techStack: ["React", "JavaScript", "API Integration"],
+        description: "Developed a quiz platform with multiple categories, timers, and score tracking for fun learning."
+    },
+    {
+        name: "Casino Planet",
+        type: "Web App",
+        techStack: ["React", "JavaScript"],
+        description: "Built an online casino-themed game platform featuring interactive games and animations."
+    }
+],
 
     experience: [
         {
