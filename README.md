@@ -129,14 +129,16 @@ const DeveloperProfile = {
 
     interests: ["Open-source contribution", "Coding", "Playing Guitar", "Exploring new tech", "Boxing"],
 
-    ### Contact
-- [GitHub](https://github.com/SharwanKunwar)
-- [Portfolio](https://sharwankunwar.vercel.app)
-- [Email](mailto:sharwankunwar07@gmail.com)
-- [LeetCode](https://leetcode.com/u/P7YDdvuzcc/)
+Contact{
+- 🐱 [GitHub](https://github.com/SharwanKunwar)
+- 🌐 [Portfolio](https://sharwankunwar.vercel.app)
+- ✉️ [Email](mailto:sharwankunwar07@gmail.com)
+- 🖥️ [LeetCode](https://leetcode.com/u/P7YDdvuzcc/)
+},
 };
 
 ```
+
 
 # Portfolio:
 [![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/web.png)](https://sharwan-kunwar.vercel.app)
