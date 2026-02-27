@@ -129,12 +129,11 @@ const DeveloperProfile = {
 
     interests: ["Open-source contribution", "Coding", "Playing Guitar", "Exploring new tech", "Boxing"],
 
-    contact: {
-        github: "https://github.com/SharwanKunwar",
-        portfolio: "https://sharwankunwar.vercel.app",
-        email: "sharwankunwar07@gmail.com",
-        leetCode: "https://leetcode.com/u/P7YDdvuzcc/"
-    }
+    ### Contact
+- [GitHub](https://github.com/SharwanKunwar)
+- [Portfolio](https://sharwankunwar.vercel.app)
+- [Email](mailto:sharwankunwar07@gmail.com)
+- [LeetCode](https://leetcode.com/u/P7YDdvuzcc/)
 };
 
 ```
