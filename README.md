@@ -152,7 +152,7 @@ Contact:{
 
 
 # Portfolio:
-[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/sharwan.png)](https://sharwanjungkunwar.vercel.app/)
+[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/Screenshot 2026-03-04 100246.png)](https://sharwanjungkunwar.vercel.app/)
 
 
 
