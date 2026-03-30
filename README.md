@@ -6,12 +6,6 @@
     <h6 align="end">Full Stack Developer</h6>
 </div>
 
-
-
-
-
-
-# Portfolio:
 [![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/sharwan.png)](https://sharwanjungkunwar-ten.vercel.app/)
 
 
