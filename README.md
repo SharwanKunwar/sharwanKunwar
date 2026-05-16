@@ -11,7 +11,7 @@
 
 <br>
 
-- [Java Naming Conventions]()
+- [Java Naming Conventions](Java-Naming-Conventions.md)
 
 A quick reference guide for Java naming conventions following standard Java coding guidelines.
 
