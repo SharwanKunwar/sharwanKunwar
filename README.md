@@ -1,12 +1,12 @@
 <div>
     <h1 align="center">Sharwan Kunwar</h1>
     <h4 align="center">
-        Full-stack developer focused on building scalable applications with Java, Spring Boot, React, and PostgreSQL. Passionate about solving problems through clean, efficient code and creating impactful projects that sharpen my skills.
+        Full-stack developer focused on building scalable applications with Java, Spring Boot, React, and PostgreSQL. Passionate about solving problems through clean, efficient code and creating impact.
     </h4>
-    <h6 align="end">Full Stack Developer</h6>
+    <h6 align="center">Full Stack Developer</h6>
 </div>
 
-[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/blob/main/sharwan.png)](https://sharwan-jung-kunwar.vercel.app/)
+[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/raw/main/sharwan.png)](https://sharwan-jung-kunwar.vercel.app/)
 
 <br>
 
@@ -71,10 +71,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SharwanKunwar/SharwanKunwar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SharwanKunwar/sharwanKunwar/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> To enable the snake, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — ask me and I'll generate it for you.
 
 ---
 
@@ -90,8 +88,8 @@
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://sharwan-jung-kunwar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharwan-kunwar)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:sharwan@example.com)
 
 ---
 
