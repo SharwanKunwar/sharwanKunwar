@@ -47,8 +47,8 @@
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://sharwan-jung-kunwar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharwan-kunwar)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:sharwan@example.com)
+[![LinkedIn](https://www.linkedin.com/in/sharwan-kunwar-95a919317/)](https://linkedin.com/in/sharwan-kunwar)
+[![Email](https://mail.google.com/mail/u/0/?ogbl#inbox)](mailto:sharwan@example.com)
 
 ---
 
