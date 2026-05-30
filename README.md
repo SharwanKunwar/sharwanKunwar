@@ -44,12 +44,6 @@
 
 ---
 
-## 🤝 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://sharwan-jung-kunwar.vercel.app/)
-[![LinkedIn](https://www.linkedin.com/in/sharwan-kunwar-95a919317/)](https://linkedin.com/in/sharwan-kunwar)
-[![Email](https://mail.google.com/mail/u/0/?ogbl#inbox)](mailto:sharwan@example.com)
-
 ---
 
 <p align="center">
