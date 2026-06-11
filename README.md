@@ -12,17 +12,6 @@
 
 ---
 
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SharwanKunwar/sharwanKunwar/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 💡 A Bit About Me
 
 - 🌏 Based in Nepal 🇳🇵
