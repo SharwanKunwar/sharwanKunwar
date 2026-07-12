@@ -10,16 +10,6 @@
 
 <br>
 
----
-
-## 💡 A Bit About Me
-
-- 🌏 Based in Nepal 🇳🇵
-- 🤝 Open to collaborations on interesting projects
-- 🧠 I think in systems — I like understanding why things work, not just how
-- 🚀 Always working on something new
-
----
 
 ---
 
