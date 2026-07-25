@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Sharwan Kunwar</h1>
+    <h1 align="center">Sharwan jung Kunwar</h1>
     <h4 align="center">
         Full-stack developer focused on building scalable applications with Java, Spring Boot, React, and PostgreSQL. Passionate about solving problems through clean, efficient code and creating impact.
     </h4>
