@@ -6,7 +6,7 @@
     <h6 align="center">Full Stack Developer</h6>
 </div>
 
-[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/raw/main/sharwan.png)](https://sharwan-jung-kunwar.vercel.app/)
+[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/raw/main/git01.png)](https://sharwan-jung-kunwar.vercel.app/)
 
 <br>
 
