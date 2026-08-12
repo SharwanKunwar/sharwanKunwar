@@ -8,7 +8,7 @@
 </p>
 </div>
 
-[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/raw/main/git01.png)](https://sharwan-jung-kunwar.vercel.app/)
+[![portfolio](https://github.com/SharwanKunwar/sharwanKunwar/raw/main/gitB01.png)](https://sharwan-jung-kunwar.vercel.app/)
 
 ---
 
